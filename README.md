@@ -1,4 +1,4 @@
 Schedunize
 ==========
 
-Trabalho para gerenciar agenda de professores de uma universidade.
+Programa para gerenciar agenda de professores de uma universidade.
